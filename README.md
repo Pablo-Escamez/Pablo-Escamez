@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I'm Pablo! Welcome to my profile! 😜</h1>
+<h1 align="center">Hi 👋,I'm Pablo! Welcome to my profile! 😀</h1>
 <h3 align="center">Working on Data science, engineering and generative AI</h3>
 
 - 🌱 I’m currently learning **Generative AI, docker**
